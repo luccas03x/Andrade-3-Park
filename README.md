@@ -11,4 +11,5 @@
 ## Localização
 
 ## Inspiração
-Band - https://spaces.w3schools.com/
+<p>O site foi baseado em um template da W3Schools:</p>
+<p>Band - https://spaces.w3schools.com/</p>
