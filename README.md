@@ -6,6 +6,9 @@
   <img src="img/Banner Andrade 3 Park.png" width="100%">
 </p>
 
+## 🎯 Objetivo
+Esse site foi feito como um dos serviços da nossa empresa Alloy, sendo ele 1 de 5 sites no total.
+
 ## 🚗 Sobre o estacionamento
 <p>Inaugurado em Julho de 2017, o estacionamento Andrade 3 Park teve a ideia de aproveitar um terreno de aproximadamente 1700m² com antigas casas (vilas) e transformar num estacionamento com uma região carente de espaço.</p>
 
