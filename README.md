@@ -22,4 +22,4 @@ Esse site foi feito como um dos serviços da nossa empresa Alloy, sendo ele 1 de
 
 ## 💭 Inspiração
 <p>O site foi baseado em um template da W3Schools:</p>
-<p>Band - https://spaces.w3schools.com/</p>
+<p>BAND - https://spaces.w3schools.com/</p>
